@@ -50,13 +50,6 @@ public class WeJson {
 
     /**
      * 字符串处理特殊字符
-     * REPLACEMENT_CHARS['"'] = "\\\"";
-     * REPLACEMENT_CHARS['\\'] = "\\\\";
-     * REPLACEMENT_CHARS['\t'] = "\\t";
-     * REPLACEMENT_CHARS['\b'] = "\\b";
-     * REPLACEMENT_CHARS['\n'] = "\\n";
-     * REPLACEMENT_CHARS['\r'] = "\\r";
-     * REPLACEMENT_CHARS['\f'] = "\\f";
      *
      * @param t
      * @return
